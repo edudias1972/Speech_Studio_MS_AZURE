@@ -58,3 +58,102 @@ Avatar de conversão de texto em fala
 https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/yinhew/avatar/samples/js/browser/avatar
 
 -------------------------------------------------------------------------------------------------------------------------------
+Conversão de fala em texto
+Transcreva com rapidez e precisão em mais de 100 idiomas e dialetos. Aumente a precisão de suas transcrições criando um modelo de 
+fala personalizado que pode lidar com a terminologia específica de um domínio, ruído de fundo e sotaques. 
+Saiba mais sobre conversão de fala em texto
+----------------------------------------------------------------------------------------------------------------
+Conversão de fala em texto em tempo real
+Versão 1.31.0
+Teste rapidamente seu áudio em um ponto de extremidade de reconhecimento de fala sem escrever nenhum código.
+
+Plataformas
+Contêiner do Docker
+ Nuvem
+
+---------------------------------------------------------------------------------------------------------------
+Modelo do Whisper no Serviço OpenAI do Azure
+Whisper v2-large
+O modelo do v2-large do OpenAI Whisper permite que você transcreva e traduza de forma rápida e eficiente 
+o conteúdo de áudio de 57 idiomas para o inglês, sem disfluências, com melhor limite de frase, pontuação e capitalização. 
+Ele também pode aceitar prompts como contexto ou dicas para influenciar a saída da transcrição, 
+como incluir jargões/acrônimos ou impor palavras de preenchimento.
+
+Plataformas
+ Nuvem
+--------------------------------------------------------------------------------------------------------------
+Conversão de Fala em Texto em Lote
+Versão 3.1
+A conversão de fala em texto em lote permite transcrever uma grande quantidade de áudio no armazenamento. 
+Você pode apontar para arquivos de áudio com um URI de assinatura de acesso compartilhado (SAS) 
+e receber resultados de transcrição de forma assíncrona.
+
+Plataformas
+Contêiner do Docker
+ Nuvem
+----------------------------------------------------------------------------------------------------------------
+Bem-vindo à Fala Personalizada
+Melhore a precisão do reconhecimento de fala da conversão de fala em texto da Microsoft para seus cenários de destino. 
+Use seus dados de vocabulário específicos do domínio, dados de pronúncia ou amostras de 
+áudio gravadas em seu ambiente acústico de destino.
+
+---------------------------------------------------------------------------------------------------------------
+Avaliação de Pronúncia com conversão de fala em texto
+Versão 1.1
+
+A avaliação da pronúncia avalia a pronúncia da fala e fornece comentários aos locutores sobre a precisão e fluência da sua fala. 
+Com a avaliação da pronúncia, os alunos de idiomas podem praticar, obter comentários instantâneo e melhorar sua pronúncia para 
+que possam conversar e apresentar com confiança.
+Plataformas
+ Nuvem
+-------------------------------------------------------------------------------------------------------------------
+Tradução de Fala
+Versão 1.31.0
+Traduza a fala para outros idiomas de sua escolha com baixa latência.
+Plataformas
+Contêiner do Docker
+ Nuvem
+----------------------------------------------------------------------------------------------------------------
+Conversão de texto em fala
+Crie aplicativos e serviços que falam com naturalidade, utilizando mais de 400 vozes em 140 idiomas e dialetos. 
+Crie uma voz personalizada para diferenciar sua marca e use vários estilos de fala para incorporar 
+uma sensação emocional ao seu conteúdo falado.
+
+Galeria de Serviço de Voz
+Versão 1.1
+
+Crie aplicativos e serviços que falam naturalmente, escolhendo entre 485 vozes em 149 idiomas e variantes. 
+Dar vida a seus cenários com vozes neurais altamente expressivas e humanas.
+Plataformas
+ Nuvem
+* Contêiner do Docker
+--------------------------------------------------------------------------------------------------------------
+Selecionar um recurso do Fala ou dos Serviços Cognitivos
+Antes de criar um novo projeto, primeiro você precisa selecionar um recurso do Fala ou de Serviços Cognitivos.
+Você pode alterar o recurso usado a qualquer momento em Configurações.
+
+A Voz Neural Personalizada (CNV) permite criar uma voz sintética de som natural que é treinada com base em gravações de voz humana. 
+Sua voz personalizada pode se adaptar a vários idiomas e estilos de fala e é 
+perfeita para adicionar uma voz exclusiva às suas soluções de conversão de texto em fala.
+
+Saiba mais sobre Voz Neural Personalizada.
+Gravações e transcrições de voz
+Treinar por Voz Neural Personalizada
+Voz sintética para sua marca
+
+https://speech.microsoft.com/portal/personalvoice
+
+------------------------------------------------------------------------------------------------------------------------
+
+https://learn.microsoft.com/pt-br/azure/ai-services/speech-service/text-to-speech
+
+Assistente de voz
+Enriqueça seu aplicativo ou sua experiência com uma interface por conversa para ativar e controlar seu produto. 
+Saber mais sobre o Assistente de voz
+Iniciar um projeto de Palavra-Chave Personalizada
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
+
